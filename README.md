@@ -1,4 +1,4 @@
-<h1>Olá! Bem-vindo(a) ao meu perfil! Me chamo Leonardo Sardagna</h1>
+<h1>Olá! Bem-vindo(a) ao meu perfil!</h1>
 <p>📚 Atualmente, estou aprendendo e explorando programação. Meu objetivo é absorver o máximo de conhecimento possível enquanto construo projetos interessantes ao longo do caminho. </p>
 <p>👨‍🎓 Estou cursando faculdade de análise e desenvolvimento de sistemas 2/5</p>
 <p>💡 Concentrado em aprender a linguagem JavaScript.</p>
