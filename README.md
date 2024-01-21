@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/leonardosardagna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
+<a align="right" width="300px" href="https://storyset.com/web"></a>
 
 ## My name is Leonardo Sardagna
 
