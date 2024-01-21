@@ -12,7 +12,7 @@
 
 (Javascript | HTML | CSS ) 🚀
 
-- 🎓 analysis and systems development @ [Uniasselvi]([https://portal.ufpel.edu.br/](https://portal.uniasselvi.com.br/))
+- 🎓 analysis and systems development @ [Uniasselvi]([https://portal.uniasselvi.com.br/])
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
