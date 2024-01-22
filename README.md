@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leonardosardagna/leonardosardagna/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeonardoSardagna/LeonardoSardagna/output/snake.svg" alt="Snake animation" />
 
 ###
