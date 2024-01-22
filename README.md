@@ -1,33 +1,54 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1>Hi There! 👋</h1>
+###
 
-<div> 
-  <a href="https://www.instagram.com/leo_sardagna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardosardagna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left">My name is Leonardo</p>
+
+###
+
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-<a align="right" width="300px" href="https://storyset.com/web"></a>
+###
 
-## My name is Leonardo Sardagna
+<h2 align="left">About me</h2>
 
-(Javascript | HTML | CSS ) 🚀
+###
 
-- 🎓 analysis and systems development @ [Uniasselvi]([https://portal.uniasselvi.com.br/])
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎓 Analysis and systems development - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
-<p>📚 Atualmente, estou aprendendo e explorando programação. Meu objetivo é absorver o máximo de conhecimento possível enquanto construo projetos interessantes ao longo do caminho. </p>
-<p>👨‍🎓 Estou cursando faculdade de análise e desenvolvimento de sistemas 2/5</p>
-<p>💡 Concentrado em aprender a linguagem JavaScript.</p>
-<p>🚀 Adoro desafios e estou sempre em busca de oportunidades para aprimorar minhas habilidades.</p>
-<p>🤝 Estou ansioso(a) para me conectar com outros desenvolvedores, trocar experiências e compartilhar conhecimento. Acredito que a colaboração é a chave para o crescimento pessoal e profissional.</p>
-<p>📬 Sinta-se à vontade para entrar em contato, seja para discutir ideias, compartilhar dicas ou apenas para bater um papo.</p>
-<h2>Skills:</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
-<br>
-<h2>Redes sociais: </h2>
+###
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardosardagna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosardagna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/leonardosardagna/leonardosardagna/output/snake.svg" alt="Snake animation" />
+
+###
