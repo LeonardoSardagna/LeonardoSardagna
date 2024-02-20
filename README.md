@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎓 Analysis and systems development - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I am currently learning Java through the entra21 program<br>🎓 Analysis and systems development - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
 ###
 
