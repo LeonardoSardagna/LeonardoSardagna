@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo, I began my journey in the field of technology in 2023 when I enrolled in the Systems Analysis and Development program. During this period, I developed a deep interest in web development, which led me to thoroughly explore languages and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java, and Spring Boot.</p>
+<p align="left">My name is Leonardo, I started my journey in the technology field in 2023 when I enrolled in the Faculty of Systems Analysis and Development. During this period, I developed a deep interest in web development, which led me to deeply explore languages ​​and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java and Spring Boot.</p>
 <p align="left">With a total focus on full stack development, I am committed to mastering both front-end and back-end to create complete and efficient solutions.</p>
 <p align="left">I am curre
 ntly seeking an internship opportunity in technology where I can apply and expand my knowledge, collaborate with experienced professionals, and contribute to the development of innovative solutions.</p>
