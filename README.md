@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
 <p align="left">My name is Leonardo, I began my journey in the field of technology in 2023 when I enrolled in the Systems Analysis and Development program. During this period, I developed a deep interest in web development, which led me to thoroughly explore languages and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java, and Spring Boot.</p>
 <p align="left">With a total focus on full stack development, I am committed to mastering both front-end and back-end to create complete and efficient solutions.</p>
@@ -61,17 +62,15 @@ ntly seeking an internship opportunity in technology where I can apply and expan
 
 ###
 
-<div align="left">
-  
-</div>
-
-###
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardosardagna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosardagna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+###
+
+<img src="https://raw.githubusercontent.com/leonardosardagna/leonardosardagna/output/snake.svg" alt="Snake animation" />
