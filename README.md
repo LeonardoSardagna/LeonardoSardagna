@@ -30,7 +30,7 @@ ntly seeking an internship opportunity in technology where I can apply and expan
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java <br>🎓 Analysis and systems development 3/5 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java <br>🎓 Analysis and systems development 4/5 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
 ###
 
