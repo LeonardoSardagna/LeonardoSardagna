@@ -2,10 +2,11 @@
 
 ###
 
-<p align="left">My name is Leonardo, I started my journey in the technology field in 2023 when I enrolled in the Faculty of Systems Analysis and Development. During this period, I developed a deep interest in web development, which led me to deeply explore languages ​​and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java and Spring Boot.</p>
-<p align="left">With a total focus on full stack development, I am committed to mastering both front-end and back-end to create complete and efficient solutions.</p>
-<p align="left">I am curre
-ntly seeking an internship opportunity in technology where I can apply and expand my knowledge, collaborate with experienced professionals, and contribute to the development of innovative solutions.</p>
+<p>My name is Leonardo, and I began my journey in the field of technology in 2023 when I enrolled in Systems Analysis and Development at university. During this time, I further developed my interest in development, which led me to deeply explore languages and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java, and Spring Boot.</p>
+
+<p>With a focus on back-end development in Java and Cloud Computing, I am committed to mastering these technologies to create efficient and scalable solutions.</p>
+
+<p>I am currently seeking an internship opportunity in technology where I can apply and expand my knowledge, collaborate with experienced professionals, and contribute to the development of innovative solutions.</p>
 
 ###
 
@@ -30,7 +31,7 @@ ntly seeking an internship opportunity in technology where I can apply and expan
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java <br>🎓 Analysis and systems development 4/5 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java and Cloud Computing.<br>🎓 Analysis and systems development 4/5 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
 ###
 
@@ -52,8 +53,6 @@ ntly seeking an internship opportunity in technology where I can apply and expan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
