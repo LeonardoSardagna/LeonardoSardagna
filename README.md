@@ -4,7 +4,7 @@
 
 <p>My name is Leonardo, and I began my journey in the field of technology in 2023 when I enrolled in Systems Analysis and Development at university. During this time, I further developed my interest in development, which led me to deeply explore languages and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java, and Spring Boot.</p>
 
-<p>With a focus on back-end development in Java and Cloud Computing, I am committed to mastering these technologies to create efficient and scalable solutions.</p>
+<p>With a focus on back-end development in Java, I am committed to mastering these technologies to create efficient and scalable solutions.</p>
 
 <p>I am currently seeking an internship opportunity in technology where I can apply and expand my knowledge, collaborate with experienced professionals, and contribute to the development of innovative solutions.</p>
 
