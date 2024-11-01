@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java and Cloud Computing.<br>🎓 Analysis and systems development 4/6 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I am currently learning Java<br>🎓 Analysis and systems development 4/6 - Uniasselvi<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
 ###
 
