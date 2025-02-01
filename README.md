@@ -1,10 +1,8 @@
 # Hey 👋 What's up?
 
-My name is Leonardo, and I began my journey in the field of technology in 2023 when I enrolled in Systems Analysis and Development at university. During this time, I further developed my interest in development, which led me to deeply explore languages and technologies such as HTML, CSS, JavaScript, React, TypeScript, Java, and Spring Boot.
+My name is Leonardo, and I began my journey in the field of technology in 2023 when I enrolled in Systems Analysis and Development at university. Over time, my interest evolved from development to IT infrastructure, leading me to explore areas such as Windows Server, Linux, Docker, Databases, and Cloud Computing (AWS and Azure).
 
-With a focus on back-end development in Java, I am committed to mastering these technologies to create efficient and scalable solutions.
-
-I am currently seeking an internship opportunity in technology where I can apply and expand my knowledge, collaborate with experienced professionals, and contribute to the development of innovative solutions.
+I am currently an IT Infrastructure Intern at T-Systems Brasil, focused on deepening my knowledge in infrastructure to design secure, efficient, and scalable environments.
 
 <img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
@@ -16,11 +14,11 @@ I am currently seeking an internship opportunity in technology where I can apply
 
 ## About me
 
-- ✨ Creating bugs since 2023
-- 📚 I am currently learning Java
-- 🎓 Analysis and systems development 4/6 - Uniasselvi
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+- 🚀 IT Infrastructure Intern at T-Systems Brasil
+- 🎓 Systems Analysis and Development 5/6 - Uniasselvi
+- 🖥️ Exploring Windows Server, Linux, Docker, Databases, and Cloud (AWS & Azure)
+- 💡 Always eager to face new challenges and grow in the tech field
+- 📚 Currently learning more about SAP and cloud infrastructure
 
 ## ⚡ Technologies
 
